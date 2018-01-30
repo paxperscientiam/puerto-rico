@@ -1,0 +1,13 @@
+{
+    "name": "ramoose/puerto-rico",
+    "description": "This package serves as library of articles and documents pertaining to governmental responses to the humanitarian crisis in Puerto Rico post Hurrican Maria of 2017.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Chris",
+            "email": "chrisdavidramos@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
